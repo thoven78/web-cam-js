@@ -1,0 +1,15 @@
+{
+  "name": "web-cam-js",
+  "version": "1.0.0",
+  "description": "A Simple WebRTC webcam",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "Stevenson Michel <thoven87@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.4.0"
+  }
+}

@@ -1,0 +1,3 @@
+http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf
+
+Journal of Machine Learning Research
